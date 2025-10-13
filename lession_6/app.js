@@ -1,0 +1,1 @@
+alert('Xin chao ban, from app.js');
