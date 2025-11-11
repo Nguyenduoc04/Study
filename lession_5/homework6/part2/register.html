@@ -1,10 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Đăng ký học viên</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-$END$
+<div class="form-container">
+    <form>
+        <h2>ĐĂNG KÝ HỌC VIÊN</h2>
+
+        <label for="name">Họ và tên</label>
+        <input type="text" id="name" name="name"><br>
+
+        <label for="dob">Ngày sinh</label>
+        <input type="date" id="dob" name="dob"><br>
+
+        <label>Giới tính</label>
+        <input type="radio" name="gender" value="Nam"> Nam
+        <input type="radio" name="gender" value="Nữ"> Nữ<br>
+
+        <label for="address">Địa chỉ</label>
+        <textarea id="address" name="address" rows="3" cols="30"></textarea><br>
+
+        <label for="class">Lớp</label>
+        <select id="class" name="class">
+            <option>-- Chọn lớp --</option>
+            <option>Lớp A</option>
+            <option>Lớp B</option>
+            <option>Lớp C</option>
+        </select><br>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email"><br>
+
+        <label for="phone">Điện thoại</label>
+        <input type="tel" id="phone" name="phone"><br>
+
+        <div class="buttons">
+            <input type="submit" value="Đăng ký">
+            <input type="reset" value="Nhập lại">
+        </div>
+    </form>
+</div>
 </body>
 </html>

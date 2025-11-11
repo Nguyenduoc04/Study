@@ -1,0 +1,76 @@
+body {
+    background-color: #ccffff; /* màu xanh nhạt cho phần viền */
+    margin: 10px;
+    padding: 20px;
+}
+.container {
+    background-color: white;       /* màu nền bên trong */
+    border: 10px solid #66ccff;     /* viền xanh nhạt, dày 2px */
+    width: 700px;                  /* chiều rộng nội dung */
+    margin: 40px auto;             /* căn giữa trang */
+    padding: 10px;
+    box-sizing: border-box;
+}
+form {
+    background-color: white;
+    text-align: left;
+    width: 90%;
+    padding: 30px;
+}
+h2 {
+    background-color: #ff6600; /* Màu cam */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin: -20px -20px 20px -20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+label {
+    display: inline-block;
+    width: 90px;
+    font-weight: bold;
+    color: #0000cc;
+    margin-bottom: 8px;
+}
+input[type="text"] {
+    width: 300px;
+    padding: 4px;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+}
+input[type="checkbox"] {
+    margin: 0;
+
+}
+.hobby-row {
+    display: flex;
+    align-items: flex-start; /* căn label và ô cùng hàng trên */
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.hobby-list {
+    display: grid;
+    grid-template-columns: repeat(3, 15px 70px);
+    gap: 0px 10px; /* khoảng cách hàng và cột */
+    justify-items: left;
+    color: #ff6600;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    background-color: #e0e0e0;
+    border: 1px solid gray;
+    padding: 5px 15px;
+    margin-top: 15px;
+    margin-left: 90px;
+    margin-right: -80px;
+    cursor: pointer;
+    font-weight: bold;
+}
+input[type="submit"]:hover, input[type="reset"]:hover {
+    background-color: #ddd;
+}
+form {
+    text-align: left;
+}

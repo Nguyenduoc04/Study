@@ -1,10 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Sở thích của bạn</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-$END$
+<form>
+    <h2>Sở thích của bạn</h2>
+    <label>Họ và tên:</label>
+    <input type="text" name="yourname"><br><br>
+    <label>Email:</label>
+    <input type="text" name="email"><br><br>
+    <div class="hobby-row">
+        <label>Sở thích: </label>
+        <div class="hobby-list">
+            <input type="checkbox" name="hobby"> Thể thao
+            <input type="checkbox" name="hobby"> Âm nhạc
+            <input type="checkbox" name="hobby"> Đọc sách
+            <input type="checkbox" name="hobby"> Lướt web
+            <input type="checkbox" name="hobby"> chơi game
+            <input type="checkbox" name="hobby"> Điện ảnh
+            <input type="checkbox" name="hobby"> Du lịch
+        </div>
+    </div>
+    <input type="submit" value="Gửi thông tin">
+    <input type="reset" value="Nhập lại">
+
+</form>
 </body>
 </html>

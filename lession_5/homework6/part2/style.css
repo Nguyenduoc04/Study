@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+.form-container {
+    border: 6px solid #ffffcc; /* viền vàng nổi bật */
+    width: 420px;
+    margin: 0 auto;
+    padding: 15px 25px 25px 25px;
+    box-sizing: border-box;
+    background-color: #ffffcc; /* nền vàng nhạt bên trong form */
+}
+
+h2 {
+    background-color: #ccffcc; /* dải xanh nhạt ở đầu */
+    color: #0000cc;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    margin: -15px -25px 20px -25px; /* mở rộng full chiều ngang form */
+    border-bottom: 1px solid #ccc;
+}
+
+label {
+    display: inline-block;
+    width: 90px;
+    color: #0000cc;
+    font-weight: bold;
+    margin-bottom: 8px;
+    vertical-align: top;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+    width: 250px;
+    padding: 3px;
+    margin-bottom: 10px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+textarea {
+    resize: none;
+}
+
+input[type="radio"] {
+    margin-left: 10px;
+    margin-right: 3px;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 10px;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    padding: 5px 15px;
+    margin: 5px;
+    border: 1px solid gray;
+    background-color: #e0e0e0;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+    background-color: #d0d0d0;
+}
