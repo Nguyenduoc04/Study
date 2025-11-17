@@ -1,0 +1,42 @@
+* { box-sizing: border-box; }
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #fafafa;
+    padding: 20px;
+}
+
+#puzzle-container {
+    width: 600px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.piece {
+    width: 450px;
+    height: 100px;
+    border: 4px solid #ddd;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: border-color .2s, box-shadow .2s, transform .15s;
+    object-fit: contain;
+    object-position: center;
+}
+
+.piece:hover {
+    transform: scale(1.01);
+}
+
+.complete .piece {
+    border-color: red !important;
+    box-shadow: 0 0 10px rgba(255,0,0,0.5);
+}
+
+#message {
+    margin-top: 12px;
+    font-weight: 600;
+    color: green;
+}
