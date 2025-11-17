@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Do You Love Me</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #ffe6f0;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        h1 {
+            margin-bottom: 40px;
+            color: #ff3399;
+        }
+
+        .button-row {
+            width: 300px;
+            display: flex;
+            justify-content: flex-start; /* YES bên trái */
+        }
+
+        #yesBtn {
+            padding: 15px 30px;
+            font-size: 18px;
+            border: none;
+            border-radius: 8px;
+            background-color: #ff66b3;
+            color: white;
+            cursor: pointer;
+        }
+
+        #noBtn {
+            padding: 15px 30px;
+            font-size: 18px;
+            border: none;
+            border-radius: 8px;
+            background-color: #ff4d4d;
+            color: white;
+            cursor: pointer;
+            position: fixed;
+            /* vị trí ban đầu: cùng hàng với YES */
+            top: calc(50% + 20px);
+            left: calc(50% + 100px);
+        }
+    </style>
+</head>
+<body>
+<h1>Do You Love Me?</h1>
+<div class="button-row">
+    <button id="yesBtn">YES</button>
+</div>
+<button id="noBtn">NO</button>
+
+<script>
+    const yesBtn = document.getElementById('yesBtn');
+    const noBtn = document.getElementById('noBtn');
+
+    yesBtn.addEventListener('click', () => {
+        alert('<3');
+    });
+
+    noBtn.addEventListener('mouseenter', () => {
+        const padding = 10;
+        const windowWidth = window.innerWidth;
+        const windowHeight = window.innerHeight;
+        const btnWidth = noBtn.offsetWidth;
+        const btnHeight = noBtn.offsetHeight;
+
+        // nhảy ngẫu nhiên toàn màn hình, không ra ngoài viewport
+        const x = Math.random() * (windowWidth - btnWidth - padding * 2) + padding;
+        const y = Math.random() * (windowHeight - btnHeight - padding * 2) + padding;
+
+        noBtn.style.left = x + 'px';
+        noBtn.style.top = y + 'px';
+    });
+</script>
+</body>
+</html>
