@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bang Cuu Chuong</title>
+</head>
+<body>
+<script>
+    let sout, i, j;
+    sout = "<table border='1' width='300' cellspacing='0' cellpadding='3'>";
+
+    j = 1;
+    while (j <= 9) {
+        sout = sout + "<tr>";
+        i = 2;
+        while (i <= 7) {
+            sout = sout + "<td>" + i + "x" + j + "=" + i * j + "</td>";
+            i++;
+        }
+        sout = sout + "</tr>";
+        j++;
+    }
+    sout = sout + "</table>";
+    document.write(sout);
+</script>
+</body>
+</html>
