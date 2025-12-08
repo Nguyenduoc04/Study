@@ -5,13 +5,146 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a01f5d7-d084-4044-ba49-3d03157acc6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/final/exercise1/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final/exercise2/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final/exercise3/Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final/exercise4/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CodeGym.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/lession_5/.idea/lession_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module1/lession_5/homework9/part2/.idea/part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/lession1/homework1/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession_15/homework2" beforeDir="false" afterPath="$PROJECT_DIR$/lession_15/homework2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lession_15/homework2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lession_15/homework2/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final/exercise1/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final/exercise2/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final/exercise3/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final/exercise4/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_10/homework1/exercise1/for.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_10/homework1/exercise2/sum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_10/homework2/exercise1/total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_10/homework2/exercise2/hr100.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_10/homework3/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_10/homework4/exercise1/1to100.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_11/homework1/exercise1/multiply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_11/homework2/exercise1/prime.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_12/homework1/exercise1/array.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_12/homework2/exercise1/reverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_12/homework3/exercise1/findNum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_12/homework4/exercise1/Max.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_12/homework5/exercise1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_12/homework5/exercise1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_13/homework1/exercise1/link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_13/homework1/exercise2/findEven.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_13/homework1/exercise3/change.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_13/homework2/exercise1/Dictionary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_13/homework3/exercise1/caro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_14/homework1/exercise1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_14/homework2/exercise1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_14/homework3/exercise1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_15/homework1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_15/homework2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_15/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_4_git/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_4_git/pikachu-dont-wanna-fite.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_4_git/pikachu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_4_git/weird-pikachu-101090.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/.idea/lession_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework1/homework1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework2/homework2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework3/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework3/tablesimple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework4/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework5/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework5/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework6/part1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework6/part1/yourHobby.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework6/part2/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework6/part2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework7/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework7/survey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework8/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework8/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part1/chess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part2/.idea/part2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part2/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/homework9/part2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_5/input.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_6/homework1/file.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_6/homework1/showMessage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_6/homework2/file.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_6/homework2/showMessage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_6/study/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_6/study/form_tim_ket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_6/study/magnifying-glass-solid-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework1/part1/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework1/part2/Area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework2/input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework2/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part1/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part1/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part2/input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part2/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part3/area-of-circle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part3/input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part4/input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework3/part4/perimeter-of-circle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework4/convert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework4/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework5/calculate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/homework5/show.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/study/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_7/study/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework1/checkYear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework2/ex01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework3/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework4/exercise1/name.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework4/exercise2/number.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework4/exercise3/check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework5/exercise1/checkSum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_8/homework5/exercise2/checkEmployee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework1/ball.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework1/move.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework2/move.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework2/nobita.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework3/BMI.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework4/day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework5/calculate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/1e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/2c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/2d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/3a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/img/3e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/puzzle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework6/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework7/Love.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework8/choose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework8/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework8/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework9/exercise1/check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework9/exercise2/checkAge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework9/exercise3/Input.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework9/exercise4/max.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework9/exercise5/ability.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework9/exercise6/tip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lession_9/homework9/exercise7/freight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/lession_15/homework2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/module1/lession_15/homework2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +161,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -40,29 +174,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeGym&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CodeGym",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -75,7 +216,10 @@
       <updated>1763993149318</updated>
       <workItem from="1763993150744" duration="5910000" />
       <workItem from="1764082472393" duration="806000" />
-      <workItem from="1764337600806" duration="593000" />
+      <workItem from="1764337600806" duration="655000" />
+      <workItem from="1764761459334" duration="37000" />
+      <workItem from="1764761896212" duration="667000" />
+      <workItem from="1764762952254" duration="147000" />
     </task>
     <servers />
   </component>
