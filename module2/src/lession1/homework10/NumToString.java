@@ -1,4 +1,3 @@
-package lession1.homework10;
 import java.util.Scanner;
 public class NumToString {
     public static void main(String[] args) {
