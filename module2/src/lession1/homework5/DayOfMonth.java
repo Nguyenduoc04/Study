@@ -1,5 +1,3 @@
-package lession1.homework5;
-
 import java.util.Scanner;
 
 public class DayOfMonth {
