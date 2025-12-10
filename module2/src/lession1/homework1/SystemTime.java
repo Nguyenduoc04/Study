@@ -1,5 +1,3 @@
-package lession1.homework1;
-
 import java.util.Date;
 
 public class SystemTime {
