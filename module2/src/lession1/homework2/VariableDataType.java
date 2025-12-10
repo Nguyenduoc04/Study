@@ -1,5 +1,3 @@
-package lession1.homework2;
-
 public class VariableDataType {
     public static void main(String[] args) {
         int i = 10;
