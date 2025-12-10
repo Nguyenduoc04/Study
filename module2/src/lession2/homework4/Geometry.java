@@ -1,4 +1,3 @@
-package lession2.homework4;
 import java.util.Scanner;
 
 public class Geometry {

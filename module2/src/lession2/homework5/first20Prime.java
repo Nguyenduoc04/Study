@@ -1,4 +1,3 @@
-package lession2.homework5;
 import java.util.Scanner;
 
 public class first20Prime {

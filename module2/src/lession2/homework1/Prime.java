@@ -1,4 +1,3 @@
-package lession2.homework1;
 import java.util.Scanner;
 
 public class Prime {

@@ -1,4 +1,3 @@
-package lession2.homework3;
 import java.util.Scanner;
 
 public class GreatestCommonFactor {
