@@ -1,4 +1,3 @@
-package lession1.homework6;
 import java.util.Scanner;
 
 public class LeapYearCalculator {
