@@ -1,5 +1,3 @@
-package lession1.homework4;
-
 import java.util.Scanner;
 
 public class LinearEquationResolver {
