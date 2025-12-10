@@ -1,4 +1,3 @@
-package lession1.homework7;
 import java.util.Scanner;
 
 public class BodyMassIndex {
