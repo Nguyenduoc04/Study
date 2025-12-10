@@ -1,4 +1,3 @@
-package lession1.homework3;
 import java.util.Scanner;
 
 public class Rectangle {
